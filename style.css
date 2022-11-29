@@ -1,0 +1,49 @@
+li{
+    display: inline;
+    padding-right: 10px;
+    padding-left: 55px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+nav ul li div a {
+    /* text-align: center; */
+    display: block;
+}
+
+body {
+    background-image: url("/imagens/fundo.webp");
+    /* background-color: rgba(229, 204, 204, 0.978);*/
+
+}
+
+div {
+    display: inline;
+}
+
+.label {
+    display: block;
+}
+
+.button {
+    margin-top: 15px;
+    background-color: brown;
+    
+}
+
+footer {
+    text-align: center;
+}
+
